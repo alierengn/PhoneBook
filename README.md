@@ -1,1 +1,1 @@
-Java ile yazılmış android telefon rehberi uygulaması
+Java ile yazılmış Firebase kullanılmış android telefon rehberi uygulaması
